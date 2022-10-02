@@ -1,0 +1,27 @@
+body
+{
+    padding:0;
+    margin: 0;
+    background-color: #c2c2c2
+}
+
+/* #F6F0F0 */
+
+header
+{
+    background-color: #DA5B5B;
+}
+
+#logo 
+{
+    width: 140px;
+    margin-left: 10%;
+    margin-top: 0.5%;
+}
+
+footer
+{
+    width: auto;
+    height: 100px;
+    background-color: grey;
+}

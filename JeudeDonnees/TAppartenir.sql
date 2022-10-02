@@ -1,0 +1,120 @@
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (55,1),
+  (82,12),
+  (6,13),
+  (24,10),
+  (65,3),
+  (40,9),
+  (79,1),
+  (4,7),
+  (31,7),
+  (85,14);
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (35,1),
+  (72,11),
+  (73,5),
+  (64,13),
+  (48,9),
+  (89,7),
+  (69,5),
+  (53,12),
+  (20,5),
+  (83,13);
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (81,13),
+  (22,2),
+  (75,10),
+  (4,4),
+  (79,2),
+  (7,2),
+  (18,13),
+  (54,13),
+  (24,9),
+  (25,13);
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (50,14),
+  (76,1),
+  (70,6),
+  (37,8),
+  (99,13),
+  (61,9),
+  (16,9),
+  (30,6),
+  (52,14),
+  (57,11);
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (38,5),
+  (87,1),
+  (50,11),
+  (31,8),
+  (62,5),
+  (91,12),
+  (11,9),
+  (22,7),
+  (23,8),
+  (70,3);
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (70,8),
+  (18,6),
+  (52,11),
+  (67,11),
+  (93,10),
+  (9,3),
+  (50,2),
+  (95,13),
+  (24,4),
+  (70,12);
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (13,12),
+  (8,4),
+  (46,6),
+  (84,13),
+  (85,9),
+  (65,10),
+  (64,4),
+  (66,6),
+  (2,6),
+  (76,11);
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (19,6),
+  (17,9),
+  (39,8),
+  (52,2),
+  (9,7),
+  (46,7),
+  (81,3),
+  (81,11),
+  (99,12),
+  (76,13);
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (100,2),
+  (39,7),
+  (77,8),
+  (93,2),
+  (3,7),
+  (63,9),
+  (63,1),
+  (38,4),
+  (86,12),
+  (9,12);
+INSERT INTO [Appartenir] (app_art_id,app_gen_id)
+VALUES
+  (5,5),
+  (50,10),
+  (1,9),
+  (71,2),
+  (79,14),
+  (58,1),
+  (60,13),
+  (49,3),
+  (17,3),
+  (98,1);
